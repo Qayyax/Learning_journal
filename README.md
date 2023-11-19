@@ -4,6 +4,8 @@
 
 [Deployed Site](https://learning-journal-1.netlify.app)
 
+![Screenshot of Site](screenshot.png)
+
  <hr>
 
  ## About this project
